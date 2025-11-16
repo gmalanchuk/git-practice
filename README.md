@@ -1,1 +1,1 @@
-# git-practice
+виконував через Git Bash
